@@ -40,7 +40,7 @@ Partial Class Form1
         Me.MenuStrip1.Location = New System.Drawing.Point(0, 0)
         Me.MenuStrip1.Name = "MenuStrip1"
         Me.MenuStrip1.Padding = New System.Windows.Forms.Padding(17, 6, 0, 6)
-        Me.MenuStrip1.Size = New System.Drawing.Size(764, 31)
+        Me.MenuStrip1.Size = New System.Drawing.Size(804, 31)
         Me.MenuStrip1.TabIndex = 0
         Me.MenuStrip1.Text = "MenuStrip1"
         '
@@ -91,7 +91,7 @@ Partial Class Form1
         '
         'PictureBox1
         '
-        Me.PictureBox1.Image = Global.labtask2.My.Resources.Resources.math
+        Me.PictureBox1.Image = Global.labtask2.My.Resources.Resources.math1
         Me.PictureBox1.Location = New System.Drawing.Point(182, 172)
         Me.PictureBox1.Name = "PictureBox1"
         Me.PictureBox1.Size = New System.Drawing.Size(431, 229)
@@ -104,7 +104,7 @@ Partial Class Form1
         Me.AutoScaleDimensions = New System.Drawing.SizeF(19.0!, 47.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.Plum
-        Me.ClientSize = New System.Drawing.Size(764, 413)
+        Me.ClientSize = New System.Drawing.Size(804, 481)
         Me.Controls.Add(Me.PictureBox1)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.MenuStrip1)
